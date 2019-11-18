@@ -44,7 +44,7 @@ public class AccessExportController {
 
 }
 ​```
-![未使用注解前](https://github.com/missing9/OpenResearch/blob/master/annotation/%E6%9C%AA%E4%BD%BF%E7%94%A8%E6%B3%A8%E8%A7%A3.png)
+![未使用注解前](https://github.com/missing9/OpenResearch/raw/master/annotation/%E6%9C%AA%E4%BD%BF%E7%94%A8%E6%B3%A8%E8%A7%A3.png)
 
 4.2，使用注解后：
 
