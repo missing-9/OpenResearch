@@ -1,6 +1,3 @@
----
-typora-copy-images-to: ./
----
 
 ```
 1，定义注解接口，@interface AccessExportClue，指明注解作用于方法上（@Target(ElementType.METHOD)）
@@ -47,7 +44,7 @@ public class AccessExportController {
 
 }
 ​```
-![未使用注解](C:\Users\Administrator\Desktop\annotation\未使用注解.png)
+![avatar](https://github.com/missing9/OpenResearch/blob/master/annotation/%E6%9C%AA%E4%BD%BF%E7%94%A8%E6%B3%A8%E8%A7%A3.png)
 
 4.2，使用注解后：
 
@@ -59,7 +56,7 @@ public class AccessExportController {
         return new ResultResponse(0,true,"access to export clue",null);
     }
 ​```
-![使用注解](C:\Users\Administrator\Desktop\annotation\使用注解.png)
+![avatar](https://github.com/missing9/OpenResearch/blob/master/annotation/%E6%9C%AA%E4%BD%BF%E7%94%A8%E6%B3%A8%E8%A7%A3.png)
 
 注解正确起作用。
 ```
