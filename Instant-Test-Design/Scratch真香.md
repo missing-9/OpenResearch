@@ -2,3 +2,15 @@
 
 这时Scratch横空出世，它能跑测试类，但又不属于项目里，但每个项目都能共享可见，绝对比包子还香，来，刚出锅的，一起尝尝。
 
+# 首先要有Intellij Idea
+有了idea大法，才能升级
+有了idea大法，才能升级
+![image](https://github.com/missing9/OpenResearch/blob/master/Instant-Test-Design/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B61.jpg)
+
+# 选择测试类型
+就以java为例啦~~~~
+![image](https://github.com/missing9/OpenResearch/blob/master/Instant-Test-Design/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B62.jpg)
+
+# 请开始你的表演
+### 开箱即用——————————>>>>>>>>
+![image](https://github.com/missing9/OpenResearch/blob/master/Instant-Test-Design/%E5%BC%80%E5%A7%8B%E5%B0%9D%E9%B2%9C.jpg)
