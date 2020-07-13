@@ -1,4 +1,4 @@
-##### 偶遇enum的有趣玩法，特此记录
+
 ``` java
 public class Pizza {
 
